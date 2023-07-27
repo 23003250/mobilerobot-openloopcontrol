@@ -47,6 +47,10 @@ Print a message or perform any necessary cleanup steps before terminating the pr
 
 ## Program
 ```
+#To develop a python control code to move the mobilerobot along the predefined path.
+#Developed by :MIDHUN S
+#Reference no :23003250
+
 from robomaster import robot
 import time
 from robomaster import camera
